@@ -53,7 +53,7 @@ Ensure you **check the box** to add Python to PATH during installation.
 In your terminal:
 
 git clone https://github.com/AbioyeSamuel/concrete-strength-AutoML.git
-cd concrete-strength-predictor
+cd concrete-strength-AutoML
 
 ### 4. Create a Virtual Environment
 
